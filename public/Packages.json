@@ -1,0 +1,20 @@
+[
+    {
+        "name": "nitrogen-wallpapers",
+        "friendlyName": "Nitrogen Wallpapers",
+        "description": "High quality extra wallpapers for your installation.",
+        "author": "happen3",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+		    "installedSize": 155648,
+		    "downloadSize": 90112,
+        "min_os_version": 300000,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/n/nitrogen-wallpapers/icon32.png",
+            "16x16": "$REPO_PATH$/dist/n/nitrogen-wallpapers/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/n/nitrogen-wallpapers"
+    }
+]
